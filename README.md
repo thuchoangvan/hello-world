@@ -1,2 +1,4 @@
 # hello-world
-Test
+Hi there,
+
+I'm Thuc, Project Manager and Trainer.
